@@ -1,0 +1,4 @@
+gytare 1 1500
+magnitophone 4 3000
+notebook 3 2000
+smartphone 1 2000
