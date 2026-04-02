@@ -1,5 +1,4 @@
 
-```markdown
 # C++ Портфолио: Алгоритмы, ML и проектирование систем
 
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
